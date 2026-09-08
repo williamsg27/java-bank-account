@@ -1,3 +1,7 @@
+/**
+ * Represents a checking account that extends BankAccount
+ * and includes a monthly account fee.
+ */
 public class CheckingAccount extends BankAccount {
     //Attributes
     private double monthlyFee;
